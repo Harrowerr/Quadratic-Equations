@@ -1,0 +1,2 @@
+<h1>QUADRATIC EQUATIONS</h1>
+<p1>The quadratic equations project developed for School Project with C# and Windows Forms. The main aim of the Quadratic Equation Solver project is to let users to calculate quadratic equations. User can enter integers between (-999 and 999) and calculate the quadratic equation questions. The Quadratic Equations project is an open source project. You can download the source file to use it for your projects.
