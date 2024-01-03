@@ -6,6 +6,7 @@
 
 Simple [Quadratic Equation](https://en.wikipedia.org/wiki/Quadratic_equation "Read about Quadratic Equation on Wikipedia") (ax² + bx + c = 0) Solving Tool.
 
+## Screenshots 
 ![Screenshot](./Screenshot.png)
 
 ## :memo: Note
