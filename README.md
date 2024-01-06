@@ -16,3 +16,7 @@ This was a project that i've made for my seminar work.
 - Language: **[C#](https://github.com/dotnet/csharplang) 10.0**
 - Framework: **[.NET](https://github.com/dotnet) Framework 6.0** / **[WinForms](https://github.com/dotnet/winforms)**
 - IDE: **[Visual Studio](https://github.com/microsoft) 2022**
+
+## 📖 License
+
+- The Quadratic Equation software is open-source software licensed under [MIT license](LICENSE).
